@@ -1,2 +1,2 @@
 # myHelloWorld
-My First GitHub repo
+This is my first repo. I am very excited.
